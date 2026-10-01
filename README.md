@@ -37,3 +37,4 @@ Each project is built around a real business question and documented so that the
 - 💼 [LinkedIn](https://www.linkedin.com/in/ravi-kumar-analytics)
 - 📧 [Email](mailto:ravisravi31@gmail.com)
 - 💻 [GitHub](https://github.com/ravisravi31-ui)
+- 🌐 [Portfolio](https://ravi-analytics-portfolio.netlify.app/)
